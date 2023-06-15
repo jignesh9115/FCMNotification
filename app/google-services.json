@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077777114924",
+    "project_id": "fcm-demo-561c2",
+    "storage_bucket": "fcm-demo-561c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077777114924:android:b306098325276faa19ae89",
+        "android_client_info": {
+          "package_name": "com.baxom.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077777114924-pb6ran7ig2n9948kg62ins1g6rcrcfc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfr1u4cSKg3S97dQCq-BRco6PqyaRtiBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077777114924-pb6ran7ig2n9948kg62ins1g6rcrcfc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
